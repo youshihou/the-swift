@@ -13,6 +13,83 @@
 		03EEB7072764E77D00810FD3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7052764E77D00810FD3 /* Main.storyboard */; };
 		03EEB7092764E78100810FD3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7082764E78100810FD3 /* Assets.xcassets */; };
 		03EEB70C2764E78100810FD3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB70A2764E78100810FD3 /* LaunchScreen.storyboard */; };
+		03EEB7682764E7F100810FD3 /* wabe pink-strecke 3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7142764E7F000810FD3 /* wabe pink-strecke 3.gpx */; };
+		03EEB7692764E7F100810FD3 /* wabe orange-strecke 0.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7152764E7F000810FD3 /* wabe orange-strecke 0.gpx */; };
+		03EEB76A2764E7F100810FD3 /* wabe violett-strecke 4.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7172764E7F000810FD3 /* wabe violett-strecke 4.gpx */; };
+		03EEB76B2764E7F100810FD3 /* wabe violett-strecke 1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7182764E7F000810FD3 /* wabe violett-strecke 1.gpx */; };
+		03EEB76C2764E7F100810FD3 /* wabe violett-strecke 2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7192764E7F000810FD3 /* wabe violett-strecke 2.gpx */; };
+		03EEB76D2764E7F100810FD3 /* wabe violett-strecke 3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB71A2764E7F000810FD3 /* wabe violett-strecke 3.gpx */; };
+		03EEB76E2764E7F100810FD3 /* wabe pink-strecke 2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB71B2764E7F000810FD3 /* wabe pink-strecke 2.gpx */; };
+		03EEB76F2764E7F100810FD3 /* wabe pink-strecke 0.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB71C2764E7F000810FD3 /* wabe pink-strecke 0.gpx */; };
+		03EEB7702764E7F100810FD3 /* wabe hellblau-strecke 4.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB71D2764E7F000810FD3 /* wabe hellblau-strecke 4.gpx */; };
+		03EEB7712764E7F100810FD3 /* wabe rot-strecke 2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB71F2764E7F000810FD3 /* wabe rot-strecke 2.gpx */; };
+		03EEB7722764E7F100810FD3 /* wabe rot-strecke 3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7202764E7F000810FD3 /* wabe rot-strecke 3.gpx */; };
+		03EEB7732764E7F100810FD3 /* wabe rot-strecke 1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7212764E7F000810FD3 /* wabe rot-strecke 1.gpx */; };
+		03EEB7742764E7F100810FD3 /* wabe rot-strecke 4.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7222764E7F000810FD3 /* wabe rot-strecke 4.gpx */; };
+		03EEB7752764E7F100810FD3 /* wabe tuerkis-strecke 1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7242764E7F000810FD3 /* wabe tuerkis-strecke 1.gpx */; };
+		03EEB7762764E7F100810FD3 /* wabe tuerkis-strecke 3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7252764E7F000810FD3 /* wabe tuerkis-strecke 3.gpx */; };
+		03EEB7772764E7F100810FD3 /* wabe tuerkis-strecke 2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7262764E7F000810FD3 /* wabe tuerkis-strecke 2.gpx */; };
+		03EEB7782764E7F100810FD3 /* wabe tuerkis-strecke 6.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7272764E7F000810FD3 /* wabe tuerkis-strecke 6.gpx */; };
+		03EEB7792764E7F100810FD3 /* wabe tuerkis-strecke 5.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7282764E7F000810FD3 /* wabe tuerkis-strecke 5.gpx */; };
+		03EEB77A2764E7F100810FD3 /* wabe tuerkis-strecke 4.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7292764E7F000810FD3 /* wabe tuerkis-strecke 4.gpx */; };
+		03EEB77B2764E7F100810FD3 /* wabe pink-strecke 1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB72A2764E7F000810FD3 /* wabe pink-strecke 1.gpx */; };
+		03EEB77C2764E7F100810FD3 /* wabe grau-strecke 0.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB72B2764E7F000810FD3 /* wabe grau-strecke 0.gpx */; };
+		03EEB77D2764E7F100810FD3 /* wabe hellblau-strecke 0.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB72C2764E7F000810FD3 /* wabe hellblau-strecke 0.gpx */; };
+		03EEB77E2764E7F100810FD3 /* wabe hellblau-strecke 1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB72D2764E7F000810FD3 /* wabe hellblau-strecke 1.gpx */; };
+		03EEB77F2764E7F100810FD3 /* wabe pink-strecke 4.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB72E2764E7F000810FD3 /* wabe pink-strecke 4.gpx */; };
+		03EEB7802764E7F100810FD3 /* wabe gruen-strecke 0.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB72F2764E7F000810FD3 /* wabe gruen-strecke 0.gpx */; };
+		03EEB7812764E7F100810FD3 /* wabe hellblau-strecke 3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7302764E7F000810FD3 /* wabe hellblau-strecke 3.gpx */; };
+		03EEB7822764E7F100810FD3 /* wabe hellblau-strecke 2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7312764E7F000810FD3 /* wabe hellblau-strecke 2.gpx */; };
+		03EEB7832764E7F100810FD3 /* wabe hellgruen-strecke 1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7332764E7F000810FD3 /* wabe hellgruen-strecke 1.gpx */; };
+		03EEB7842764E7F100810FD3 /* wabe hellgruen-strecke 2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7342764E7F000810FD3 /* wabe hellgruen-strecke 2.gpx */; };
+		03EEB7852764E7F100810FD3 /* wabe hellgruen-strecke 3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7352764E7F000810FD3 /* wabe hellgruen-strecke 3.gpx */; };
+		03EEB7862764E7F100810FD3 /* wabe hellgruen-strecke 7.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7362764E7F000810FD3 /* wabe hellgruen-strecke 7.gpx */; };
+		03EEB7872764E7F100810FD3 /* wabe hellgruen-strecke 6.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7372764E7F000810FD3 /* wabe hellgruen-strecke 6.gpx */; };
+		03EEB7882764E7F100810FD3 /* wabe hellgruen-strecke 4.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7382764E7F000810FD3 /* wabe hellgruen-strecke 4.gpx */; };
+		03EEB7892764E7F100810FD3 /* wabe hellgruen-strecke 5.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7392764E7F000810FD3 /* wabe hellgruen-strecke 5.gpx */; };
+		03EEB78A2764E7F100810FD3 /* wabe gelb-strecke 1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB73A2764E7F000810FD3 /* wabe gelb-strecke 1.gpx */; };
+		03EEB78B2764E7F100810FD3 /* wabe rosa-strecke 6.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB73B2764E7F000810FD3 /* wabe rosa-strecke 6.gpx */; };
+		03EEB78C2764E7F100810FD3 /* wabe hellgruen-strecke 0.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB73C2764E7F000810FD3 /* wabe hellgruen-strecke 0.gpx */; };
+		03EEB78D2764E7F100810FD3 /* wabe gelb-strecke 0.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB73D2764E7F000810FD3 /* wabe gelb-strecke 0.gpx */; };
+		03EEB78E2764E7F100810FD3 /* wabe gelb-strecke 2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB73E2764E7F000810FD3 /* wabe gelb-strecke 2.gpx */; };
+		03EEB78F2764E7F100810FD3 /* wabe rosa-strecke 4.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB73F2764E7F000810FD3 /* wabe rosa-strecke 4.gpx */; };
+		03EEB7902764E7F100810FD3 /* wabe rosa-strecke 5.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7402764E7F000810FD3 /* wabe rosa-strecke 5.gpx */; };
+		03EEB7912764E7F100810FD3 /* wabe gelb-strecke 3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7412764E7F000810FD3 /* wabe gelb-strecke 3.gpx */; };
+		03EEB7922764E7F100810FD3 /* wabe beige-strecke 0.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7422764E7F000810FD3 /* wabe beige-strecke 0.gpx */; };
+		03EEB7932764E7F100810FD3 /* wabe rosa-strecke 1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7432764E7F000810FD3 /* wabe rosa-strecke 1.gpx */; };
+		03EEB7942764E7F100810FD3 /* wabe rosa-strecke 0.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7442764E7F000810FD3 /* wabe rosa-strecke 0.gpx */; };
+		03EEB7952764E7F100810FD3 /* wabe gelb-strecke 4.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7452764E7F000810FD3 /* wabe gelb-strecke 4.gpx */; };
+		03EEB7962764E7F100810FD3 /* wabe rosa-strecke 2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7462764E7F000810FD3 /* wabe rosa-strecke 2.gpx */; };
+		03EEB7972764E7F100810FD3 /* wabe rosa-strecke 3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7472764E7F000810FD3 /* wabe rosa-strecke 3.gpx */; };
+		03EEB7982764E7F100810FD3 /* wabe hellbraun-strecke 2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7482764E7F000810FD3 /* wabe hellbraun-strecke 2.gpx */; };
+		03EEB7992764E7F100810FD3 /* wabe tuerkis-strecke 0.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7492764E7F000810FD3 /* wabe tuerkis-strecke 0.gpx */; };
+		03EEB79A2764E7F100810FD3 /* wabe hellbraun-strecke 3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB74A2764E7F000810FD3 /* wabe hellbraun-strecke 3.gpx */; };
+		03EEB79B2764E7F100810FD3 /* wabe hellbraun-strecke 1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB74B2764E7F000810FD3 /* wabe hellbraun-strecke 1.gpx */; };
+		03EEB79C2764E7F100810FD3 /* wabe hellbraun-strecke 0.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB74C2764E7F000810FD3 /* wabe hellbraun-strecke 0.gpx */; };
+		03EEB79D2764E7F100810FD3 /* wabe hellbraun-strecke 4.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB74D2764E7F000810FD3 /* wabe hellbraun-strecke 4.gpx */; };
+		03EEB79E2764E7F100810FD3 /* wabe gruen-strecke 4.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB74F2764E7F000810FD3 /* wabe gruen-strecke 4.gpx */; };
+		03EEB79F2764E7F100810FD3 /* wabe gruen-strecke 3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7502764E7F000810FD3 /* wabe gruen-strecke 3.gpx */; };
+		03EEB7A02764E7F100810FD3 /* wabe gruen-strecke 2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7512764E7F000810FD3 /* wabe gruen-strecke 2.gpx */; };
+		03EEB7A12764E7F100810FD3 /* wabe gruen-strecke 1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7522764E7F000810FD3 /* wabe gruen-strecke 1.gpx */; };
+		03EEB7A22764E7F100810FD3 /* wabe violett-strecke 0.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7532764E7F000810FD3 /* wabe violett-strecke 0.gpx */; };
+		03EEB7A32764E7F100810FD3 /* wabe hellbraun-strecke 5.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7542764E7F000810FD3 /* wabe hellbraun-strecke 5.gpx */; };
+		03EEB7A42764E7F100810FD3 /* wabe beige-strecke 2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7562764E7F000810FD3 /* wabe beige-strecke 2.gpx */; };
+		03EEB7A52764E7F100810FD3 /* wabe beige-strecke 1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7572764E7F000810FD3 /* wabe beige-strecke 1.gpx */; };
+		03EEB7A62764E7F100810FD3 /* wabe blau-strecke 3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7582764E7F000810FD3 /* wabe blau-strecke 3.gpx */; };
+		03EEB7A72764E7F100810FD3 /* wabe blau-strecke 2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7592764E7F000810FD3 /* wabe blau-strecke 2.gpx */; };
+		03EEB7A82764E7F100810FD3 /* wabe braun-strecke braun 4.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB75A2764E7F000810FD3 /* wabe braun-strecke braun 4.gpx */; };
+		03EEB7A92764E7F100810FD3 /* wabe blau-strecke 0.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB75B2764E7F000810FD3 /* wabe blau-strecke 0.gpx */; };
+		03EEB7AA2764E7F100810FD3 /* wabe blau-strecke 1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB75C2764E7F000810FD3 /* wabe blau-strecke 1.gpx */; };
+		03EEB7AB2764E7F100810FD3 /* wabe rot-strecke 0.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB75D2764E7F000810FD3 /* wabe rot-strecke 0.gpx */; };
+		03EEB7AC2764E7F100810FD3 /* wabe lila-strecke 0.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB75E2764E7F000810FD3 /* wabe lila-strecke 0.gpx */; };
+		03EEB7AD2764E7F100810FD3 /* wabe braun-strecke 4.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB75F2764E7F000810FD3 /* wabe braun-strecke 4.gpx */; };
+		03EEB7AE2764E7F100810FD3 /* wabe braun-strecke 0.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7602764E7F000810FD3 /* wabe braun-strecke 0.gpx */; };
+		03EEB7AF2764E7F100810FD3 /* wabe braun-strecke 1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7612764E7F000810FD3 /* wabe braun-strecke 1.gpx */; };
+		03EEB7B02764E7F100810FD3 /* wabe braun-strecke 3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7622764E7F000810FD3 /* wabe braun-strecke 3.gpx */; };
+		03EEB7B12764E7F100810FD3 /* wabe lila-strecke 2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7642764E7F000810FD3 /* wabe lila-strecke 2.gpx */; };
+		03EEB7B22764E7F100810FD3 /* wabe lila-strecke 3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7652764E7F000810FD3 /* wabe lila-strecke 3.gpx */; };
+		03EEB7B32764E7F100810FD3 /* wabe lila-strecke 1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7662764E7F000810FD3 /* wabe lila-strecke 1.gpx */; };
+		03EEB7B42764E7F100810FD3 /* wabe braun-strecke 2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 03EEB7672764E7F000810FD3 /* wabe braun-strecke 2.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +101,83 @@
 		03EEB7082764E78100810FD3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		03EEB70B2764E78100810FD3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		03EEB70D2764E78100810FD3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		03EEB7142764E7F000810FD3 /* wabe pink-strecke 3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe pink-strecke 3.gpx"; sourceTree = "<group>"; };
+		03EEB7152764E7F000810FD3 /* wabe orange-strecke 0.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe orange-strecke 0.gpx"; sourceTree = "<group>"; };
+		03EEB7172764E7F000810FD3 /* wabe violett-strecke 4.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe violett-strecke 4.gpx"; sourceTree = "<group>"; };
+		03EEB7182764E7F000810FD3 /* wabe violett-strecke 1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe violett-strecke 1.gpx"; sourceTree = "<group>"; };
+		03EEB7192764E7F000810FD3 /* wabe violett-strecke 2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe violett-strecke 2.gpx"; sourceTree = "<group>"; };
+		03EEB71A2764E7F000810FD3 /* wabe violett-strecke 3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe violett-strecke 3.gpx"; sourceTree = "<group>"; };
+		03EEB71B2764E7F000810FD3 /* wabe pink-strecke 2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe pink-strecke 2.gpx"; sourceTree = "<group>"; };
+		03EEB71C2764E7F000810FD3 /* wabe pink-strecke 0.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe pink-strecke 0.gpx"; sourceTree = "<group>"; };
+		03EEB71D2764E7F000810FD3 /* wabe hellblau-strecke 4.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe hellblau-strecke 4.gpx"; sourceTree = "<group>"; };
+		03EEB71F2764E7F000810FD3 /* wabe rot-strecke 2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe rot-strecke 2.gpx"; sourceTree = "<group>"; };
+		03EEB7202764E7F000810FD3 /* wabe rot-strecke 3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe rot-strecke 3.gpx"; sourceTree = "<group>"; };
+		03EEB7212764E7F000810FD3 /* wabe rot-strecke 1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe rot-strecke 1.gpx"; sourceTree = "<group>"; };
+		03EEB7222764E7F000810FD3 /* wabe rot-strecke 4.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe rot-strecke 4.gpx"; sourceTree = "<group>"; };
+		03EEB7242764E7F000810FD3 /* wabe tuerkis-strecke 1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe tuerkis-strecke 1.gpx"; sourceTree = "<group>"; };
+		03EEB7252764E7F000810FD3 /* wabe tuerkis-strecke 3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe tuerkis-strecke 3.gpx"; sourceTree = "<group>"; };
+		03EEB7262764E7F000810FD3 /* wabe tuerkis-strecke 2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe tuerkis-strecke 2.gpx"; sourceTree = "<group>"; };
+		03EEB7272764E7F000810FD3 /* wabe tuerkis-strecke 6.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe tuerkis-strecke 6.gpx"; sourceTree = "<group>"; };
+		03EEB7282764E7F000810FD3 /* wabe tuerkis-strecke 5.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe tuerkis-strecke 5.gpx"; sourceTree = "<group>"; };
+		03EEB7292764E7F000810FD3 /* wabe tuerkis-strecke 4.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe tuerkis-strecke 4.gpx"; sourceTree = "<group>"; };
+		03EEB72A2764E7F000810FD3 /* wabe pink-strecke 1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe pink-strecke 1.gpx"; sourceTree = "<group>"; };
+		03EEB72B2764E7F000810FD3 /* wabe grau-strecke 0.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe grau-strecke 0.gpx"; sourceTree = "<group>"; };
+		03EEB72C2764E7F000810FD3 /* wabe hellblau-strecke 0.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe hellblau-strecke 0.gpx"; sourceTree = "<group>"; };
+		03EEB72D2764E7F000810FD3 /* wabe hellblau-strecke 1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe hellblau-strecke 1.gpx"; sourceTree = "<group>"; };
+		03EEB72E2764E7F000810FD3 /* wabe pink-strecke 4.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe pink-strecke 4.gpx"; sourceTree = "<group>"; };
+		03EEB72F2764E7F000810FD3 /* wabe gruen-strecke 0.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe gruen-strecke 0.gpx"; sourceTree = "<group>"; };
+		03EEB7302764E7F000810FD3 /* wabe hellblau-strecke 3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe hellblau-strecke 3.gpx"; sourceTree = "<group>"; };
+		03EEB7312764E7F000810FD3 /* wabe hellblau-strecke 2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe hellblau-strecke 2.gpx"; sourceTree = "<group>"; };
+		03EEB7332764E7F000810FD3 /* wabe hellgruen-strecke 1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe hellgruen-strecke 1.gpx"; sourceTree = "<group>"; };
+		03EEB7342764E7F000810FD3 /* wabe hellgruen-strecke 2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe hellgruen-strecke 2.gpx"; sourceTree = "<group>"; };
+		03EEB7352764E7F000810FD3 /* wabe hellgruen-strecke 3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe hellgruen-strecke 3.gpx"; sourceTree = "<group>"; };
+		03EEB7362764E7F000810FD3 /* wabe hellgruen-strecke 7.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe hellgruen-strecke 7.gpx"; sourceTree = "<group>"; };
+		03EEB7372764E7F000810FD3 /* wabe hellgruen-strecke 6.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe hellgruen-strecke 6.gpx"; sourceTree = "<group>"; };
+		03EEB7382764E7F000810FD3 /* wabe hellgruen-strecke 4.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe hellgruen-strecke 4.gpx"; sourceTree = "<group>"; };
+		03EEB7392764E7F000810FD3 /* wabe hellgruen-strecke 5.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe hellgruen-strecke 5.gpx"; sourceTree = "<group>"; };
+		03EEB73A2764E7F000810FD3 /* wabe gelb-strecke 1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe gelb-strecke 1.gpx"; sourceTree = "<group>"; };
+		03EEB73B2764E7F000810FD3 /* wabe rosa-strecke 6.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe rosa-strecke 6.gpx"; sourceTree = "<group>"; };
+		03EEB73C2764E7F000810FD3 /* wabe hellgruen-strecke 0.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe hellgruen-strecke 0.gpx"; sourceTree = "<group>"; };
+		03EEB73D2764E7F000810FD3 /* wabe gelb-strecke 0.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe gelb-strecke 0.gpx"; sourceTree = "<group>"; };
+		03EEB73E2764E7F000810FD3 /* wabe gelb-strecke 2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe gelb-strecke 2.gpx"; sourceTree = "<group>"; };
+		03EEB73F2764E7F000810FD3 /* wabe rosa-strecke 4.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe rosa-strecke 4.gpx"; sourceTree = "<group>"; };
+		03EEB7402764E7F000810FD3 /* wabe rosa-strecke 5.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe rosa-strecke 5.gpx"; sourceTree = "<group>"; };
+		03EEB7412764E7F000810FD3 /* wabe gelb-strecke 3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe gelb-strecke 3.gpx"; sourceTree = "<group>"; };
+		03EEB7422764E7F000810FD3 /* wabe beige-strecke 0.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe beige-strecke 0.gpx"; sourceTree = "<group>"; };
+		03EEB7432764E7F000810FD3 /* wabe rosa-strecke 1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe rosa-strecke 1.gpx"; sourceTree = "<group>"; };
+		03EEB7442764E7F000810FD3 /* wabe rosa-strecke 0.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe rosa-strecke 0.gpx"; sourceTree = "<group>"; };
+		03EEB7452764E7F000810FD3 /* wabe gelb-strecke 4.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe gelb-strecke 4.gpx"; sourceTree = "<group>"; };
+		03EEB7462764E7F000810FD3 /* wabe rosa-strecke 2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe rosa-strecke 2.gpx"; sourceTree = "<group>"; };
+		03EEB7472764E7F000810FD3 /* wabe rosa-strecke 3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe rosa-strecke 3.gpx"; sourceTree = "<group>"; };
+		03EEB7482764E7F000810FD3 /* wabe hellbraun-strecke 2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe hellbraun-strecke 2.gpx"; sourceTree = "<group>"; };
+		03EEB7492764E7F000810FD3 /* wabe tuerkis-strecke 0.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe tuerkis-strecke 0.gpx"; sourceTree = "<group>"; };
+		03EEB74A2764E7F000810FD3 /* wabe hellbraun-strecke 3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe hellbraun-strecke 3.gpx"; sourceTree = "<group>"; };
+		03EEB74B2764E7F000810FD3 /* wabe hellbraun-strecke 1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe hellbraun-strecke 1.gpx"; sourceTree = "<group>"; };
+		03EEB74C2764E7F000810FD3 /* wabe hellbraun-strecke 0.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe hellbraun-strecke 0.gpx"; sourceTree = "<group>"; };
+		03EEB74D2764E7F000810FD3 /* wabe hellbraun-strecke 4.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe hellbraun-strecke 4.gpx"; sourceTree = "<group>"; };
+		03EEB74F2764E7F000810FD3 /* wabe gruen-strecke 4.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe gruen-strecke 4.gpx"; sourceTree = "<group>"; };
+		03EEB7502764E7F000810FD3 /* wabe gruen-strecke 3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe gruen-strecke 3.gpx"; sourceTree = "<group>"; };
+		03EEB7512764E7F000810FD3 /* wabe gruen-strecke 2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe gruen-strecke 2.gpx"; sourceTree = "<group>"; };
+		03EEB7522764E7F000810FD3 /* wabe gruen-strecke 1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe gruen-strecke 1.gpx"; sourceTree = "<group>"; };
+		03EEB7532764E7F000810FD3 /* wabe violett-strecke 0.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe violett-strecke 0.gpx"; sourceTree = "<group>"; };
+		03EEB7542764E7F000810FD3 /* wabe hellbraun-strecke 5.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe hellbraun-strecke 5.gpx"; sourceTree = "<group>"; };
+		03EEB7562764E7F000810FD3 /* wabe beige-strecke 2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe beige-strecke 2.gpx"; sourceTree = "<group>"; };
+		03EEB7572764E7F000810FD3 /* wabe beige-strecke 1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe beige-strecke 1.gpx"; sourceTree = "<group>"; };
+		03EEB7582764E7F000810FD3 /* wabe blau-strecke 3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe blau-strecke 3.gpx"; sourceTree = "<group>"; };
+		03EEB7592764E7F000810FD3 /* wabe blau-strecke 2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe blau-strecke 2.gpx"; sourceTree = "<group>"; };
+		03EEB75A2764E7F000810FD3 /* wabe braun-strecke braun 4.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe braun-strecke braun 4.gpx"; sourceTree = "<group>"; };
+		03EEB75B2764E7F000810FD3 /* wabe blau-strecke 0.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe blau-strecke 0.gpx"; sourceTree = "<group>"; };
+		03EEB75C2764E7F000810FD3 /* wabe blau-strecke 1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe blau-strecke 1.gpx"; sourceTree = "<group>"; };
+		03EEB75D2764E7F000810FD3 /* wabe rot-strecke 0.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe rot-strecke 0.gpx"; sourceTree = "<group>"; };
+		03EEB75E2764E7F000810FD3 /* wabe lila-strecke 0.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe lila-strecke 0.gpx"; sourceTree = "<group>"; };
+		03EEB75F2764E7F000810FD3 /* wabe braun-strecke 4.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe braun-strecke 4.gpx"; sourceTree = "<group>"; };
+		03EEB7602764E7F000810FD3 /* wabe braun-strecke 0.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe braun-strecke 0.gpx"; sourceTree = "<group>"; };
+		03EEB7612764E7F000810FD3 /* wabe braun-strecke 1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe braun-strecke 1.gpx"; sourceTree = "<group>"; };
+		03EEB7622764E7F000810FD3 /* wabe braun-strecke 3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe braun-strecke 3.gpx"; sourceTree = "<group>"; };
+		03EEB7642764E7F000810FD3 /* wabe lila-strecke 2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe lila-strecke 2.gpx"; sourceTree = "<group>"; };
+		03EEB7652764E7F000810FD3 /* wabe lila-strecke 3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe lila-strecke 3.gpx"; sourceTree = "<group>"; };
+		03EEB7662764E7F000810FD3 /* wabe lila-strecke 1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe lila-strecke 1.gpx"; sourceTree = "<group>"; };
+		03EEB7672764E7F000810FD3 /* wabe braun-strecke 2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "wabe braun-strecke 2.gpx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +210,7 @@
 		03EEB6FE2764E77D00810FD3 /* Laufpark */ = {
 			isa = PBXGroup;
 			children = (
+				03EEB7132764E7F000810FD3 /* gpx */,
 				03EEB6FF2764E77D00810FD3 /* AppDelegate.swift */,
 				03EEB7012764E77D00810FD3 /* SceneDelegate.swift */,
 				03EEB7032764E77D00810FD3 /* ViewController.swift */,
@@ -65,6 +220,146 @@
 				03EEB70D2764E78100810FD3 /* Info.plist */,
 			);
 			path = Laufpark;
+			sourceTree = "<group>";
+		};
+		03EEB7132764E7F000810FD3 /* gpx */ = {
+			isa = PBXGroup;
+			children = (
+				03EEB7142764E7F000810FD3 /* wabe pink-strecke 3.gpx */,
+				03EEB7152764E7F000810FD3 /* wabe orange-strecke 0.gpx */,
+				03EEB7162764E7F000810FD3 /* violett */,
+				03EEB71B2764E7F000810FD3 /* wabe pink-strecke 2.gpx */,
+				03EEB71C2764E7F000810FD3 /* wabe pink-strecke 0.gpx */,
+				03EEB71D2764E7F000810FD3 /* wabe hellblau-strecke 4.gpx */,
+				03EEB71E2764E7F000810FD3 /* rot */,
+				03EEB7232764E7F000810FD3 /* tuerkis */,
+				03EEB72A2764E7F000810FD3 /* wabe pink-strecke 1.gpx */,
+				03EEB72B2764E7F000810FD3 /* wabe grau-strecke 0.gpx */,
+				03EEB72C2764E7F000810FD3 /* wabe hellblau-strecke 0.gpx */,
+				03EEB72D2764E7F000810FD3 /* wabe hellblau-strecke 1.gpx */,
+				03EEB72E2764E7F000810FD3 /* wabe pink-strecke 4.gpx */,
+				03EEB72F2764E7F000810FD3 /* wabe gruen-strecke 0.gpx */,
+				03EEB7302764E7F000810FD3 /* wabe hellblau-strecke 3.gpx */,
+				03EEB7312764E7F000810FD3 /* wabe hellblau-strecke 2.gpx */,
+				03EEB7322764E7F000810FD3 /* hellgruen */,
+				03EEB73A2764E7F000810FD3 /* wabe gelb-strecke 1.gpx */,
+				03EEB73B2764E7F000810FD3 /* wabe rosa-strecke 6.gpx */,
+				03EEB73C2764E7F000810FD3 /* wabe hellgruen-strecke 0.gpx */,
+				03EEB73D2764E7F000810FD3 /* wabe gelb-strecke 0.gpx */,
+				03EEB73E2764E7F000810FD3 /* wabe gelb-strecke 2.gpx */,
+				03EEB73F2764E7F000810FD3 /* wabe rosa-strecke 4.gpx */,
+				03EEB7402764E7F000810FD3 /* wabe rosa-strecke 5.gpx */,
+				03EEB7412764E7F000810FD3 /* wabe gelb-strecke 3.gpx */,
+				03EEB7422764E7F000810FD3 /* wabe beige-strecke 0.gpx */,
+				03EEB7432764E7F000810FD3 /* wabe rosa-strecke 1.gpx */,
+				03EEB7442764E7F000810FD3 /* wabe rosa-strecke 0.gpx */,
+				03EEB7452764E7F000810FD3 /* wabe gelb-strecke 4.gpx */,
+				03EEB7462764E7F000810FD3 /* wabe rosa-strecke 2.gpx */,
+				03EEB7472764E7F000810FD3 /* wabe rosa-strecke 3.gpx */,
+				03EEB7482764E7F000810FD3 /* wabe hellbraun-strecke 2.gpx */,
+				03EEB7492764E7F000810FD3 /* wabe tuerkis-strecke 0.gpx */,
+				03EEB74A2764E7F000810FD3 /* wabe hellbraun-strecke 3.gpx */,
+				03EEB74B2764E7F000810FD3 /* wabe hellbraun-strecke 1.gpx */,
+				03EEB74C2764E7F000810FD3 /* wabe hellbraun-strecke 0.gpx */,
+				03EEB74D2764E7F000810FD3 /* wabe hellbraun-strecke 4.gpx */,
+				03EEB74E2764E7F000810FD3 /* gruen */,
+				03EEB7532764E7F000810FD3 /* wabe violett-strecke 0.gpx */,
+				03EEB7542764E7F000810FD3 /* wabe hellbraun-strecke 5.gpx */,
+				03EEB7552764E7F000810FD3 /* beige */,
+				03EEB7582764E7F000810FD3 /* wabe blau-strecke 3.gpx */,
+				03EEB7592764E7F000810FD3 /* wabe blau-strecke 2.gpx */,
+				03EEB75A2764E7F000810FD3 /* wabe braun-strecke braun 4.gpx */,
+				03EEB75B2764E7F000810FD3 /* wabe blau-strecke 0.gpx */,
+				03EEB75C2764E7F000810FD3 /* wabe blau-strecke 1.gpx */,
+				03EEB75D2764E7F000810FD3 /* wabe rot-strecke 0.gpx */,
+				03EEB75E2764E7F000810FD3 /* wabe lila-strecke 0.gpx */,
+				03EEB75F2764E7F000810FD3 /* wabe braun-strecke 4.gpx */,
+				03EEB7602764E7F000810FD3 /* wabe braun-strecke 0.gpx */,
+				03EEB7612764E7F000810FD3 /* wabe braun-strecke 1.gpx */,
+				03EEB7622764E7F000810FD3 /* wabe braun-strecke 3.gpx */,
+				03EEB7632764E7F000810FD3 /* lila */,
+				03EEB7672764E7F000810FD3 /* wabe braun-strecke 2.gpx */,
+			);
+			path = gpx;
+			sourceTree = "<group>";
+		};
+		03EEB7162764E7F000810FD3 /* violett */ = {
+			isa = PBXGroup;
+			children = (
+				03EEB7172764E7F000810FD3 /* wabe violett-strecke 4.gpx */,
+				03EEB7182764E7F000810FD3 /* wabe violett-strecke 1.gpx */,
+				03EEB7192764E7F000810FD3 /* wabe violett-strecke 2.gpx */,
+				03EEB71A2764E7F000810FD3 /* wabe violett-strecke 3.gpx */,
+			);
+			path = violett;
+			sourceTree = "<group>";
+		};
+		03EEB71E2764E7F000810FD3 /* rot */ = {
+			isa = PBXGroup;
+			children = (
+				03EEB71F2764E7F000810FD3 /* wabe rot-strecke 2.gpx */,
+				03EEB7202764E7F000810FD3 /* wabe rot-strecke 3.gpx */,
+				03EEB7212764E7F000810FD3 /* wabe rot-strecke 1.gpx */,
+				03EEB7222764E7F000810FD3 /* wabe rot-strecke 4.gpx */,
+			);
+			path = rot;
+			sourceTree = "<group>";
+		};
+		03EEB7232764E7F000810FD3 /* tuerkis */ = {
+			isa = PBXGroup;
+			children = (
+				03EEB7242764E7F000810FD3 /* wabe tuerkis-strecke 1.gpx */,
+				03EEB7252764E7F000810FD3 /* wabe tuerkis-strecke 3.gpx */,
+				03EEB7262764E7F000810FD3 /* wabe tuerkis-strecke 2.gpx */,
+				03EEB7272764E7F000810FD3 /* wabe tuerkis-strecke 6.gpx */,
+				03EEB7282764E7F000810FD3 /* wabe tuerkis-strecke 5.gpx */,
+				03EEB7292764E7F000810FD3 /* wabe tuerkis-strecke 4.gpx */,
+			);
+			path = tuerkis;
+			sourceTree = "<group>";
+		};
+		03EEB7322764E7F000810FD3 /* hellgruen */ = {
+			isa = PBXGroup;
+			children = (
+				03EEB7332764E7F000810FD3 /* wabe hellgruen-strecke 1.gpx */,
+				03EEB7342764E7F000810FD3 /* wabe hellgruen-strecke 2.gpx */,
+				03EEB7352764E7F000810FD3 /* wabe hellgruen-strecke 3.gpx */,
+				03EEB7362764E7F000810FD3 /* wabe hellgruen-strecke 7.gpx */,
+				03EEB7372764E7F000810FD3 /* wabe hellgruen-strecke 6.gpx */,
+				03EEB7382764E7F000810FD3 /* wabe hellgruen-strecke 4.gpx */,
+				03EEB7392764E7F000810FD3 /* wabe hellgruen-strecke 5.gpx */,
+			);
+			path = hellgruen;
+			sourceTree = "<group>";
+		};
+		03EEB74E2764E7F000810FD3 /* gruen */ = {
+			isa = PBXGroup;
+			children = (
+				03EEB74F2764E7F000810FD3 /* wabe gruen-strecke 4.gpx */,
+				03EEB7502764E7F000810FD3 /* wabe gruen-strecke 3.gpx */,
+				03EEB7512764E7F000810FD3 /* wabe gruen-strecke 2.gpx */,
+				03EEB7522764E7F000810FD3 /* wabe gruen-strecke 1.gpx */,
+			);
+			path = gruen;
+			sourceTree = "<group>";
+		};
+		03EEB7552764E7F000810FD3 /* beige */ = {
+			isa = PBXGroup;
+			children = (
+				03EEB7562764E7F000810FD3 /* wabe beige-strecke 2.gpx */,
+				03EEB7572764E7F000810FD3 /* wabe beige-strecke 1.gpx */,
+			);
+			path = beige;
+			sourceTree = "<group>";
+		};
+		03EEB7632764E7F000810FD3 /* lila */ = {
+			isa = PBXGroup;
+			children = (
+				03EEB7642764E7F000810FD3 /* wabe lila-strecke 2.gpx */,
+				03EEB7652764E7F000810FD3 /* wabe lila-strecke 3.gpx */,
+				03EEB7662764E7F000810FD3 /* wabe lila-strecke 1.gpx */,
+			);
+			path = lila;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +420,86 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				03EEB7A42764E7F100810FD3 /* wabe beige-strecke 2.gpx in Resources */,
+				03EEB77C2764E7F100810FD3 /* wabe grau-strecke 0.gpx in Resources */,
+				03EEB7862764E7F100810FD3 /* wabe hellgruen-strecke 7.gpx in Resources */,
+				03EEB7AF2764E7F100810FD3 /* wabe braun-strecke 1.gpx in Resources */,
+				03EEB7852764E7F100810FD3 /* wabe hellgruen-strecke 3.gpx in Resources */,
+				03EEB7AE2764E7F100810FD3 /* wabe braun-strecke 0.gpx in Resources */,
+				03EEB7A22764E7F100810FD3 /* wabe violett-strecke 0.gpx in Resources */,
+				03EEB7B32764E7F100810FD3 /* wabe lila-strecke 1.gpx in Resources */,
 				03EEB70C2764E78100810FD3 /* LaunchScreen.storyboard in Resources */,
+				03EEB7712764E7F100810FD3 /* wabe rot-strecke 2.gpx in Resources */,
 				03EEB7092764E78100810FD3 /* Assets.xcassets in Resources */,
+				03EEB7A72764E7F100810FD3 /* wabe blau-strecke 2.gpx in Resources */,
+				03EEB7942764E7F100810FD3 /* wabe rosa-strecke 0.gpx in Resources */,
+				03EEB7702764E7F100810FD3 /* wabe hellblau-strecke 4.gpx in Resources */,
+				03EEB7AC2764E7F100810FD3 /* wabe lila-strecke 0.gpx in Resources */,
+				03EEB76B2764E7F100810FD3 /* wabe violett-strecke 1.gpx in Resources */,
+				03EEB7982764E7F100810FD3 /* wabe hellbraun-strecke 2.gpx in Resources */,
+				03EEB7782764E7F100810FD3 /* wabe tuerkis-strecke 6.gpx in Resources */,
+				03EEB76D2764E7F100810FD3 /* wabe violett-strecke 3.gpx in Resources */,
+				03EEB7762764E7F100810FD3 /* wabe tuerkis-strecke 3.gpx in Resources */,
+				03EEB7AB2764E7F100810FD3 /* wabe rot-strecke 0.gpx in Resources */,
+				03EEB7932764E7F100810FD3 /* wabe rosa-strecke 1.gpx in Resources */,
+				03EEB7722764E7F100810FD3 /* wabe rot-strecke 3.gpx in Resources */,
+				03EEB78C2764E7F100810FD3 /* wabe hellgruen-strecke 0.gpx in Resources */,
+				03EEB78F2764E7F100810FD3 /* wabe rosa-strecke 4.gpx in Resources */,
+				03EEB79B2764E7F100810FD3 /* wabe hellbraun-strecke 1.gpx in Resources */,
+				03EEB7682764E7F100810FD3 /* wabe pink-strecke 3.gpx in Resources */,
+				03EEB7B12764E7F100810FD3 /* wabe lila-strecke 2.gpx in Resources */,
+				03EEB7B42764E7F100810FD3 /* wabe braun-strecke 2.gpx in Resources */,
+				03EEB7802764E7F100810FD3 /* wabe gruen-strecke 0.gpx in Resources */,
+				03EEB7792764E7F100810FD3 /* wabe tuerkis-strecke 5.gpx in Resources */,
+				03EEB79E2764E7F100810FD3 /* wabe gruen-strecke 4.gpx in Resources */,
+				03EEB7A12764E7F100810FD3 /* wabe gruen-strecke 1.gpx in Resources */,
+				03EEB7A92764E7F100810FD3 /* wabe blau-strecke 0.gpx in Resources */,
+				03EEB7892764E7F100810FD3 /* wabe hellgruen-strecke 5.gpx in Resources */,
+				03EEB7A32764E7F100810FD3 /* wabe hellbraun-strecke 5.gpx in Resources */,
+				03EEB77F2764E7F100810FD3 /* wabe pink-strecke 4.gpx in Resources */,
+				03EEB7882764E7F100810FD3 /* wabe hellgruen-strecke 4.gpx in Resources */,
+				03EEB7952764E7F100810FD3 /* wabe gelb-strecke 4.gpx in Resources */,
+				03EEB7842764E7F100810FD3 /* wabe hellgruen-strecke 2.gpx in Resources */,
+				03EEB7B22764E7F100810FD3 /* wabe lila-strecke 3.gpx in Resources */,
+				03EEB7972764E7F100810FD3 /* wabe rosa-strecke 3.gpx in Resources */,
+				03EEB7A62764E7F100810FD3 /* wabe blau-strecke 3.gpx in Resources */,
+				03EEB79C2764E7F100810FD3 /* wabe hellbraun-strecke 0.gpx in Resources */,
+				03EEB78D2764E7F100810FD3 /* wabe gelb-strecke 0.gpx in Resources */,
+				03EEB7AD2764E7F100810FD3 /* wabe braun-strecke 4.gpx in Resources */,
+				03EEB7992764E7F100810FD3 /* wabe tuerkis-strecke 0.gpx in Resources */,
 				03EEB7072764E77D00810FD3 /* Main.storyboard in Resources */,
+				03EEB77D2764E7F100810FD3 /* wabe hellblau-strecke 0.gpx in Resources */,
+				03EEB7AA2764E7F100810FD3 /* wabe blau-strecke 1.gpx in Resources */,
+				03EEB78B2764E7F100810FD3 /* wabe rosa-strecke 6.gpx in Resources */,
+				03EEB7742764E7F100810FD3 /* wabe rot-strecke 4.gpx in Resources */,
+				03EEB77B2764E7F100810FD3 /* wabe pink-strecke 1.gpx in Resources */,
+				03EEB79F2764E7F100810FD3 /* wabe gruen-strecke 3.gpx in Resources */,
+				03EEB7962764E7F100810FD3 /* wabe rosa-strecke 2.gpx in Resources */,
+				03EEB79A2764E7F100810FD3 /* wabe hellbraun-strecke 3.gpx in Resources */,
+				03EEB7732764E7F100810FD3 /* wabe rot-strecke 1.gpx in Resources */,
+				03EEB7A52764E7F100810FD3 /* wabe beige-strecke 1.gpx in Resources */,
+				03EEB7912764E7F100810FD3 /* wabe gelb-strecke 3.gpx in Resources */,
+				03EEB7A02764E7F100810FD3 /* wabe gruen-strecke 2.gpx in Resources */,
+				03EEB7832764E7F100810FD3 /* wabe hellgruen-strecke 1.gpx in Resources */,
+				03EEB7812764E7F100810FD3 /* wabe hellblau-strecke 3.gpx in Resources */,
+				03EEB76C2764E7F100810FD3 /* wabe violett-strecke 2.gpx in Resources */,
+				03EEB7A82764E7F100810FD3 /* wabe braun-strecke braun 4.gpx in Resources */,
+				03EEB7902764E7F100810FD3 /* wabe rosa-strecke 5.gpx in Resources */,
+				03EEB7B02764E7F100810FD3 /* wabe braun-strecke 3.gpx in Resources */,
+				03EEB76E2764E7F100810FD3 /* wabe pink-strecke 2.gpx in Resources */,
+				03EEB77E2764E7F100810FD3 /* wabe hellblau-strecke 1.gpx in Resources */,
+				03EEB7692764E7F100810FD3 /* wabe orange-strecke 0.gpx in Resources */,
+				03EEB78A2764E7F100810FD3 /* wabe gelb-strecke 1.gpx in Resources */,
+				03EEB76F2764E7F100810FD3 /* wabe pink-strecke 0.gpx in Resources */,
+				03EEB76A2764E7F100810FD3 /* wabe violett-strecke 4.gpx in Resources */,
+				03EEB7822764E7F100810FD3 /* wabe hellblau-strecke 2.gpx in Resources */,
+				03EEB7922764E7F100810FD3 /* wabe beige-strecke 0.gpx in Resources */,
+				03EEB78E2764E7F100810FD3 /* wabe gelb-strecke 2.gpx in Resources */,
+				03EEB7752764E7F100810FD3 /* wabe tuerkis-strecke 1.gpx in Resources */,
+				03EEB7872764E7F100810FD3 /* wabe hellgruen-strecke 6.gpx in Resources */,
+				03EEB7772764E7F100810FD3 /* wabe tuerkis-strecke 2.gpx in Resources */,
+				03EEB79D2764E7F100810FD3 /* wabe hellbraun-strecke 4.gpx in Resources */,
+				03EEB77A2764E7F100810FD3 /* wabe tuerkis-strecke 4.gpx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

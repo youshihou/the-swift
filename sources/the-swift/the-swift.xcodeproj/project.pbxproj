@@ -24,6 +24,7 @@
 		0362046427646AFE00669EA3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0362046727646AFE00669EA3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0362046927646AFE00669EA3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0362047027646B4F00669EA3 /* S01E46.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = S01E46.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,12 +60,21 @@
 				0362045B27646AF900669EA3 /* AppDelegate.swift */,
 				0362045D27646AF900669EA3 /* SceneDelegate.swift */,
 				0362045F27646AF900669EA3 /* ViewController.swift */,
+				0362046F27646B2200669EA3 /* playground */,
 				0362046127646AF900669EA3 /* Main.storyboard */,
 				0362046427646AFE00669EA3 /* Assets.xcassets */,
 				0362046627646AFE00669EA3 /* LaunchScreen.storyboard */,
 				0362046927646AFE00669EA3 /* Info.plist */,
 			);
 			path = "the-swift";
+			sourceTree = "<group>";
+		};
+		0362046F27646B2200669EA3 /* playground */ = {
+			isa = PBXGroup;
+			children = (
+				0362047027646B4F00669EA3 /* S01E46.playground */,
+			);
+			path = playground;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

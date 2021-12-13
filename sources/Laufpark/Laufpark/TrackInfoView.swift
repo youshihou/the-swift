@@ -46,7 +46,7 @@ class TrackInfoView: UIView {
         for value in profile {
             maxX = max(maxX, value.distance)
             minY = min(minY, value.elevation)
-            maxY = min(maxY, value.elevation)
+            maxY = max(maxY, value.elevation)
         }
         let points = profile.map { (CGFloat(($0.distance / maxX)), CGFloat(($0.elevation - minY) / (maxY - minY))) }
         let screenPoints = points.map { CGPoint(x: $0.0 * bounds.size.width, y: $0.1 * bounds.size.height) }
